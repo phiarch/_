@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+An international design firm with projects ranging for a prototypical Google Car, to built projects at many scales. phi architecture was originally founded as Conceptual Design Group LLC. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+本公司为一个国际设计公司，项目范围为典型的谷歌汽车，围绕其开展各种规模的项目。phi建筑最初是作为概念设计集团有限责任公司被建立的。
 
 
-[jekyll-organization]: https://github.com/jekyll
+[Ralph S. Steenblik (Founder创始人)](/rss/)
+
+[Joanna Maria Daoud](/jmd/)
+
+[Collaborators and Friends 合作伙伴和朋友](/colab/)
+
+[Jobs / Careers 工作  /  事业](/jobs/)
