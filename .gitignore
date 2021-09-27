@@ -20,3 +20,14 @@ Gemfile.lock
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+
+*.avi
+*.mov
+*.INI
+*.CR2
+*.mp4
+*.mb
+*.pdf
+*.3dm
+
