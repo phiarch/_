@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+
+{% include projects_.html folder="/index/" %}
