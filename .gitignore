@@ -40,7 +40,5 @@ Thumbs.db
 *.dwg
 *.psd
 *.ai
-<<<<<<< Updated upstream
 *.mpg
-=======
->>>>>>> Stashed changes
+*.exe
