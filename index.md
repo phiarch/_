@@ -8,6 +8,4 @@
 layout: home
 ---
 
-[Math Competition](/2017math.md/)
-
 {% include projects_.html folder="/index/" %}
