@@ -3,11 +3,6 @@ layout: page
 title: Carbon Natural
 permalink: /cn.md/
 images:
-  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/2021-09-03 143732.png
-  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/20191020inst 12.png
-  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/20191020inst 16_.JPG
-  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/0520191020inst 12.jpg
-  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/0520191020inst 16a.png
   - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/1614918382752.png
   - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/Board03.png
   - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/IMG_20191002_222545.png
@@ -23,6 +18,8 @@ images:
 The Carbon Natural Project started when I first arrived in Wenzhou. I was inspired by the common things that surrounded me. I tried to use common things to make novel structural forms. The intention with this project is to find place in between two extremes found within the building industry: mass customized spaceframes, and mass produced uncustomized spaceframes.
 
 The project attempted to do much of the early testing as a childrens toy, and has moved into full scale site specific and gallery installations throughout the world.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLBtPB9RpflEYvlUZdvaaK-UrxbxCNMhNb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### The project has had many successes including:
 
@@ -55,7 +52,5 @@ Steenblik R.S. (2020) Carbon Natural: Using Molecular Logics as Inspiration in M
 
 •	October 20-26 2019, Oakland, Ca - Verge 19 Sustainable Transportation Conference, Exhibition, and Expo Commissioned a “Carbon Natural” Full scale interactive art installation entitled “Artemis ScienceFair” 3D printed nodes, pine dowels
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLBtPB9RpflEYvlUZdvaaK-UrxbxCNMhNb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% include carousel.html height="50" unit="%" duration="7" %}
