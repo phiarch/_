@@ -3,30 +3,18 @@ layout: page
 title: Carbon Natural
 permalink: /cn.md/
 images:
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/2021-09-03 143732.png
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/20191020inst 12.png
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/20191020inst 16_.JPG
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/0520191020inst 12.jpg
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/0520191020inst 16a.png
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/1614918382752.png
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/Board03.png
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/IMG_20191002_222545.png
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/IMG_20191019_135213.jpg
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/IMG_20200108_142736.jpg
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/IMG_20210118_183212.jpg
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/IMG_20210719_150909.jpg
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562587052984-DESKTOP-2OCMI3Q.jpg
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562658146543-DESKTOP-2OCMI3Q.jpg
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562658166959-DESKTOP-2OCMI3Q.jpg
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1578478742435_.png
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1611018927173.jpg
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/Wenzhou Museum01.png
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/00-DESKTOP-2OCMI3Q.JPG
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/01.jpg
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/01a.jpg
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/01b.jpg
-  - image: https://github.com/phiarch/_/blob/master/2020CarbonNatural/02a.jpg
-
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/2021-09-03 143732.png
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/20191020inst 12.png
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/20191020inst 16_.JPG
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/0520191020inst 12.jpg
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/0520191020inst 16a.png
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/1614918382752.png
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/Board03.png
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/IMG_20191002_222545.png
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/IMG_20191019_135213.jpg
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/IMG_20200108_142736.jpg
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/IMG_20210118_183212.jpg
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/IMG_20210719_150909.jpg
 ---
 
 ![Carbon Natural](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/20210609.jpg?raw=true;h=100;output=jpg;q=15)
