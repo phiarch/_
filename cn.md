@@ -57,15 +57,15 @@ Steenblik R.S. (2020) Carbon Natural: Using Molecular Logics as Inspiration in M
 
 ![](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562658146543-DESKTOP-2OCMI3Q.jpg?raw=true&h=400&output=jpg&q=50) ![](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562658166959-DESKTOP-2OCMI3Q.jpg?raw=true&h=400&output=jpg&q=50)
 
+•	June 21, 2020 Box Elder County, Ut - Site Specific Installation “Carbon Alignment” 3D printed nodes and pine dowels
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X_w0gnlHQeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 •	July 08, 2019 Shanghai, CN – “Carbon Natural - Using Molecular Logics as Inspiration in Micro-Bamboo Structures” digitalFutures conference, Tongji University, College of Architecture and Urban Planning
 
 ![](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562587052984-DESKTOP-2OCMI3Q.jpg?raw=true&h=400&output=jpg&q=50) ![](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562478277049.jpg?raw=true&h=400&output=jpg&q=50)
 
 •	November 21, 2019 - “Hot Showers for the Homeless?” Published at FAVELissues Online Journal [(favelissues.com)](https://favelissues.com/2019/11/21/hot-showers-for-the-homeless/)
-
-•	June 21, 2020 Box Elder County, Ut - Site Specific Installation “Carbon Alignment” 3D printed nodes and pine dowels
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X_w0gnlHQeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 •	Fall 2019 Wenzhou, CN - Site Specific Installation “Cyclo”, 3D printed nodes and pine dowels
 
