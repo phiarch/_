@@ -8,6 +8,4 @@
 layout: home
 ---
 
-### Projects:
-
 {% include projects_.html folder="/index/" %}
