@@ -55,15 +55,11 @@ The project attempted to do much of the early testing as a childrens toy, and ha
 
 Steenblik R.S. (2020) Carbon Natural: Using Molecular Logics as Inspiration in Micro-Bamboo Structures. In: Yuan P., Xie Y., Yao J., Yan C. (eds) Proceedings of the 2019 DigitalFUTURES. CDRF 2019. Springer, Singapore. [https://doi.org/10.1007/978-981-13-8153-9_6](https://link.springer.com/chapter/10.1007%2F978-981-13-8153-9_6)
 
-![](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562658146543-DESKTOP-2OCMI3Q.jpg?raw=true&h=400&output=jpg&q=50)
-
-![](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562658166959-DESKTOP-2OCMI3Q.jpg?raw=true&h=400&output=jpg&q=50)
+![](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562658146543-DESKTOP-2OCMI3Q.jpg?raw=true&h=400&output=jpg&q=50) ![](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562658166959-DESKTOP-2OCMI3Q.jpg?raw=true&h=400&output=jpg&q=50)
 
 •	July 08, 2019 Shanghai, CN – “Carbon Natural - Using Molecular Logics as Inspiration in Micro-Bamboo Structures” digitalFutures conference, Tongji University, College of Architecture and Urban Planning
 
-![](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562587052984-DESKTOP-2OCMI3Q.jpg?raw=true&h=400&output=jpg&q=50)
-
-![](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562478277049.jpg?raw=true&h=400&output=jpg&q=50)
+![](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562587052984-DESKTOP-2OCMI3Q.jpg?raw=true&h=400&output=jpg&q=50) ![](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562478277049.jpg?raw=true&h=400&output=jpg&q=50)
 
 •	November 21, 2019 - “Hot Showers for the Homeless?” Published at FAVELissues Online Journal [(favelissues.com)](https://favelissues.com/2019/11/21/hot-showers-for-the-homeless/)
 
