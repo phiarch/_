@@ -33,7 +33,7 @@ The project attempted to do much of the early testing as a childrens toy, and ha
 
 •	May 22 –June 11 2021 Wenzhou-Kean University – Public Architecture and Design Research Institute conference and exhibition Carbon Natural Exhibition
 
-![](https://images.weserv.nl/?url=https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/20210511TheBohrModelInst.png&h=400&output=jpg&q=500)
+
 
 •	April 28, 2021 WKU Student Research Day – Presentation and Poster
 
