@@ -8,5 +8,6 @@
 layout: home
 ---
 
-### Research
+### Projects:
+
 {% include projects_.html folder="/index/" %}
