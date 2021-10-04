@@ -19,8 +19,6 @@ The Carbon Natural Project started when I first arrived in Wenzhou. I was inspir
 
 The project attempted to do much of the early testing as a childrens toy, and has moved into full scale site specific and gallery installations throughout the world.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLBtPB9RpflEYvlUZdvaaK-UrxbxCNMhNb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ##### The project has had many successes including:
 
 •	July 30, 2021 Wenzhou, CN - Molecular Logics and Traditional Wenzhou-made Materials, for Contemporary Sculpture Wenzhou Museum “Looking at Wenzhou from the World” Lecture Series
