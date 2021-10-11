@@ -3,16 +3,16 @@ layout: page
 title: Carbon Natural
 permalink: /2021carbonnatural/
 images:
-  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/1614918382752.png
-  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/Board03.png
-  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/IMG_20191002_222545.png
-  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/IMG_20191019_135213.jpg
-  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/IMG_20200108_142736.jpg
-  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/IMG_20210118_183212.jpg
-  - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/IMG_20210719_150909.jpg
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2021CarbonNatural/1614918382752.png
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2021CarbonNatural/Board03.png
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2021CarbonNatural/IMG_20191002_222545.png
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2021CarbonNatural/IMG_20191019_135213.jpg
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2021CarbonNatural/IMG_20200108_142736.jpg
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2021CarbonNatural/IMG_20210118_183212.jpg
+  - image: https://raw.githubusercontent.com/phiarch/_/master/2021CarbonNatural/IMG_20210719_150909.jpg
 ---
 
-![Carbon Natural](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/20210609.jpg?raw=true;h=100;output=jpg;q=15)
+![Carbon Natural](https://images.weserv.nl/?url=https://raw.githubusercontent.com/phiarch/_/master/2021CarbonNatural/20210609.jpg&h=125&output=jpg&q=100)
 
 
 The Carbon Natural Project started when I first arrived in Wenzhou. I was inspired by the common things that surrounded me. I tried to use common things to make novel structural forms. The intention with this project is to find place in between two extremes found within the building industry: mass customized spaceframes, and mass produced uncustomized spaceframes.
