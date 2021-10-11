@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Carbon Natural
-permalink: /cn.md/
+permalink: /2021carbonnatural/
 images:
   - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/1614918382752.png
   - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/Board03.png
@@ -53,7 +53,7 @@ The project attempted to do much of the early testing as a childrens toy, and ha
 
 Steenblik R.S. (2020) Carbon Natural: Using Molecular Logics as Inspiration in Micro-Bamboo Structures. In: Yuan P., Xie Y., Yao J., Yan C. (eds) Proceedings of the 2019 DigitalFUTURES. CDRF 2019. Springer, Singapore. [https://doi.org/10.1007/978-981-13-8153-9_6](https://link.springer.com/chapter/10.1007%2F978-981-13-8153-9_6)<br>
 
-![](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562658146543-DESKTOP-2OCMI3Q.jpg?raw=true&h=400&output=jpg&q=50) 
+![](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562658146543-DESKTOP-2OCMI3Q.jpg?raw=true&h=400&output=jpg&q=50)
 
 
 ![](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562658166959-DESKTOP-2OCMI3Q.jpg?raw=true&h=400&output=jpg&q=50)<br>
@@ -64,7 +64,7 @@ Steenblik R.S. (2020) Carbon Natural: Using Molecular Logics as Inspiration in M
 
 •	July 08, 2019 Shanghai, CN – “Carbon Natural - Using Molecular Logics as Inspiration in Micro-Bamboo Structures” digitalFutures conference, Tongji University, College of Architecture and Urban Planning
 
-![](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562587052984-DESKTOP-2OCMI3Q.jpg?raw=true&h=400&output=jpg&q=50) 
+![](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562587052984-DESKTOP-2OCMI3Q.jpg?raw=true&h=400&output=jpg&q=50)
 
 
 ![](https://images.weserv.nl/?url=https://github.com/phiarch/_/blob/master/2020CarbonNatural/mmexport1562478277049.jpg?raw=true&h=400&output=jpg&q=50)<br>
