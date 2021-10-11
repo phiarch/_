@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Carbon Natural
-permalink: /2021carbonnatural/index.md/
+permalink: /2021carbonnatural/
 images:
   - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/1614918382752.png
   - image: https://raw.githubusercontent.com/phiarch/_/master/2020CarbonNatural/Board03.png
